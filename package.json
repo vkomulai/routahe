@@ -31,8 +31,8 @@
     "chalk": "^2.1.0",
     "commander": "^2.11.0",
     "graphqlify": "^1.1.0",
-    "lodash": "^4.17.4",
-    "moment": "^2.18.1",
+    "lodash": "^4.17.5",
+    "moment": "^2.19.3",
     "node-emoji": "^1.8.1",
     "node-fetch": "^1.7.3",
     "pad": "^1.1.0"
